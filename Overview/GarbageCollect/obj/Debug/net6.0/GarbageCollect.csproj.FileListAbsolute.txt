@@ -12,3 +12,18 @@ C:\Users\USER\Documents\Ndu Emmanuel starter file\Overview\GarbageCollect\obj\De
 C:\Users\USER\Documents\Ndu Emmanuel starter file\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.pdb
 C:\Users\USER\Documents\Ndu Emmanuel starter file\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.genruntimeconfig.cache
 C:\Users\USER\Documents\Ndu Emmanuel starter file\Overview\GarbageCollect\obj\Debug\net6.0\ref\GarbageCollect.dll
+C:\CODES\StartFile\Overview\GarbageCollect\bin\Debug\net6.0\GarbageCollect.exe
+C:\CODES\StartFile\Overview\GarbageCollect\bin\Debug\net6.0\GarbageCollect.deps.json
+C:\CODES\StartFile\Overview\GarbageCollect\bin\Debug\net6.0\GarbageCollect.runtimeconfig.json
+C:\CODES\StartFile\Overview\GarbageCollect\bin\Debug\net6.0\GarbageCollect.dll
+C:\CODES\StartFile\Overview\GarbageCollect\bin\Debug\net6.0\GarbageCollect.pdb
+C:\CODES\StartFile\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODES\StartFile\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.AssemblyInfoInputs.cache
+C:\CODES\StartFile\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.AssemblyInfo.cs
+C:\CODES\StartFile\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.csproj.CoreCompileInputs.cache
+C:\CODES\StartFile\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.sourcelink.json
+C:\CODES\StartFile\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.dll
+C:\CODES\StartFile\Overview\GarbageCollect\obj\Debug\net6.0\refint\GarbageCollect.dll
+C:\CODES\StartFile\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.pdb
+C:\CODES\StartFile\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.genruntimeconfig.cache
+C:\CODES\StartFile\Overview\GarbageCollect\obj\Debug\net6.0\ref\GarbageCollect.dll
