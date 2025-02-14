@@ -13,3 +13,18 @@ C:\Users\USER\Documents\Ndu Emmanuel starter file\NumbersDates\DateTimeClass\obj
 C:\Users\USER\Documents\Ndu Emmanuel starter file\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.pdb
 C:\Users\USER\Documents\Ndu Emmanuel starter file\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.genruntimeconfig.cache
 C:\Users\USER\Documents\Ndu Emmanuel starter file\NumbersDates\DateTimeClass\obj\Debug\net6.0\ref\DateTimeClass.dll
+C:\CODES\StartFile\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.exe
+C:\CODES\StartFile\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.deps.json
+C:\CODES\StartFile\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.runtimeconfig.json
+C:\CODES\StartFile\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.dll
+C:\CODES\StartFile\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.pdb
+C:\CODES\StartFile\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODES\StartFile\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.AssemblyInfoInputs.cache
+C:\CODES\StartFile\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.AssemblyInfo.cs
+C:\CODES\StartFile\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.csproj.CoreCompileInputs.cache
+C:\CODES\StartFile\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.sourcelink.json
+C:\CODES\StartFile\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.dll
+C:\CODES\StartFile\NumbersDates\DateTimeClass\obj\Debug\net6.0\refint\DateTimeClass.dll
+C:\CODES\StartFile\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.pdb
+C:\CODES\StartFile\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.genruntimeconfig.cache
+C:\CODES\StartFile\NumbersDates\DateTimeClass\obj\Debug\net6.0\ref\DateTimeClass.dll
