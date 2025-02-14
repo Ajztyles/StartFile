@@ -13,3 +13,18 @@ C:\Users\USER\Documents\Ndu Emmanuel starter file\NumbersDates\ParseDates\obj\De
 C:\Users\USER\Documents\Ndu Emmanuel starter file\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.pdb
 C:\Users\USER\Documents\Ndu Emmanuel starter file\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.genruntimeconfig.cache
 C:\Users\USER\Documents\Ndu Emmanuel starter file\NumbersDates\ParseDates\obj\Debug\net6.0\ref\ParseDates.dll
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\ParseDates\bin\Debug\net6.0\ParseDates.exe
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\ParseDates\bin\Debug\net6.0\ParseDates.deps.json
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\ParseDates\bin\Debug\net6.0\ParseDates.runtimeconfig.json
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\ParseDates\bin\Debug\net6.0\ParseDates.dll
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\ParseDates\bin\Debug\net6.0\ParseDates.pdb
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.AssemblyInfoInputs.cache
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.AssemblyInfo.cs
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.csproj.CoreCompileInputs.cache
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.sourcelink.json
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.dll
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\ParseDates\obj\Debug\net6.0\refint\ParseDates.dll
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.pdb
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.genruntimeconfig.cache
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\ParseDates\obj\Debug\net6.0\ref\ParseDates.dll
