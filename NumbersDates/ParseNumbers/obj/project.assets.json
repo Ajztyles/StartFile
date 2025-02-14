@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CODES\\StartFile\\NumbersDates\\ParseNumbers\\ParseNumbers.csproj",
+      "projectUniqueName": "C:\\CODES\\StartFile\\Strings\\Interpolation\\NumbersDates\\ParseNumbers\\ParseNumbers.csproj",
       "projectName": "ParseNumbers",
-      "projectPath": "C:\\CODES\\StartFile\\NumbersDates\\ParseNumbers\\ParseNumbers.csproj",
+      "projectPath": "C:\\CODES\\StartFile\\Strings\\Interpolation\\NumbersDates\\ParseNumbers\\ParseNumbers.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\CODES\\StartFile\\NumbersDates\\ParseNumbers\\obj\\",
+      "outputPath": "C:\\CODES\\StartFile\\Strings\\Interpolation\\NumbersDates\\ParseNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
