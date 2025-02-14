@@ -13,3 +13,18 @@ C:\Users\USER\Documents\Ndu Emmanuel starter file\Files\Directories\obj\Debug\ne
 C:\Users\USER\Documents\Ndu Emmanuel starter file\Files\Directories\obj\Debug\net6.0\Directories.pdb
 C:\Users\USER\Documents\Ndu Emmanuel starter file\Files\Directories\obj\Debug\net6.0\Directories.genruntimeconfig.cache
 C:\Users\USER\Documents\Ndu Emmanuel starter file\Files\Directories\obj\Debug\net6.0\ref\Directories.dll
+C:\CODES\StartFile\Files\Directories\bin\Debug\net6.0\Directories.exe
+C:\CODES\StartFile\Files\Directories\bin\Debug\net6.0\Directories.deps.json
+C:\CODES\StartFile\Files\Directories\bin\Debug\net6.0\Directories.runtimeconfig.json
+C:\CODES\StartFile\Files\Directories\bin\Debug\net6.0\Directories.dll
+C:\CODES\StartFile\Files\Directories\bin\Debug\net6.0\Directories.pdb
+C:\CODES\StartFile\Files\Directories\obj\Debug\net6.0\Directories.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODES\StartFile\Files\Directories\obj\Debug\net6.0\Directories.AssemblyInfoInputs.cache
+C:\CODES\StartFile\Files\Directories\obj\Debug\net6.0\Directories.AssemblyInfo.cs
+C:\CODES\StartFile\Files\Directories\obj\Debug\net6.0\Directories.csproj.CoreCompileInputs.cache
+C:\CODES\StartFile\Files\Directories\obj\Debug\net6.0\Directories.sourcelink.json
+C:\CODES\StartFile\Files\Directories\obj\Debug\net6.0\Directories.dll
+C:\CODES\StartFile\Files\Directories\obj\Debug\net6.0\refint\Directories.dll
+C:\CODES\StartFile\Files\Directories\obj\Debug\net6.0\Directories.pdb
+C:\CODES\StartFile\Files\Directories\obj\Debug\net6.0\Directories.genruntimeconfig.cache
+C:\CODES\StartFile\Files\Directories\obj\Debug\net6.0\ref\Directories.dll
