@@ -13,3 +13,18 @@ C:\Users\USER\Documents\Ndu Emmanuel starter file\NumbersDates\FormatNumbers\obj
 C:\Users\USER\Documents\Ndu Emmanuel starter file\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.pdb
 C:\Users\USER\Documents\Ndu Emmanuel starter file\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.genruntimeconfig.cache
 C:\Users\USER\Documents\Ndu Emmanuel starter file\NumbersDates\FormatNumbers\obj\Debug\net6.0\ref\FormatNumbers.dll
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.exe
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.deps.json
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.runtimeconfig.json
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.dll
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.pdb
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.AssemblyInfoInputs.cache
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.AssemblyInfo.cs
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.csproj.CoreCompileInputs.cache
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.sourcelink.json
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.dll
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\FormatNumbers\obj\Debug\net6.0\refint\FormatNumbers.dll
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.pdb
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.genruntimeconfig.cache
+C:\CODES\StartFile\Strings\Interpolation\NumbersDates\FormatNumbers\obj\Debug\net6.0\ref\FormatNumbers.dll
