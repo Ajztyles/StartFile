@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CODES\\StartFile\\Strings\\Interpolation\\NumbersDates\\FormatNumbers\\FormatNumbers.csproj",
+      "projectUniqueName": "C:\\CODES\\StartFile\\NumbersDates\\FormatNumbers\\FormatNumbers.csproj",
       "projectName": "FormatNumbers",
-      "projectPath": "C:\\CODES\\StartFile\\Strings\\Interpolation\\NumbersDates\\FormatNumbers\\FormatNumbers.csproj",
+      "projectPath": "C:\\CODES\\StartFile\\NumbersDates\\FormatNumbers\\FormatNumbers.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\CODES\\StartFile\\Strings\\Interpolation\\NumbersDates\\FormatNumbers\\obj\\",
+      "outputPath": "C:\\CODES\\StartFile\\NumbersDates\\FormatNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

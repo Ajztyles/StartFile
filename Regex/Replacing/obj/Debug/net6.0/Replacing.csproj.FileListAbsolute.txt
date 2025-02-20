@@ -1,0 +1,15 @@
+C:\CODES\StartFile\Regex\Replacing\bin\Debug\net6.0\Replacing.exe
+C:\CODES\StartFile\Regex\Replacing\bin\Debug\net6.0\Replacing.deps.json
+C:\CODES\StartFile\Regex\Replacing\bin\Debug\net6.0\Replacing.runtimeconfig.json
+C:\CODES\StartFile\Regex\Replacing\bin\Debug\net6.0\Replacing.dll
+C:\CODES\StartFile\Regex\Replacing\bin\Debug\net6.0\Replacing.pdb
+C:\CODES\StartFile\Regex\Replacing\obj\Debug\net6.0\Replacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODES\StartFile\Regex\Replacing\obj\Debug\net6.0\Replacing.AssemblyInfoInputs.cache
+C:\CODES\StartFile\Regex\Replacing\obj\Debug\net6.0\Replacing.AssemblyInfo.cs
+C:\CODES\StartFile\Regex\Replacing\obj\Debug\net6.0\Replacing.csproj.CoreCompileInputs.cache
+C:\CODES\StartFile\Regex\Replacing\obj\Debug\net6.0\Replacing.sourcelink.json
+C:\CODES\StartFile\Regex\Replacing\obj\Debug\net6.0\Replacing.dll
+C:\CODES\StartFile\Regex\Replacing\obj\Debug\net6.0\refint\Replacing.dll
+C:\CODES\StartFile\Regex\Replacing\obj\Debug\net6.0\Replacing.pdb
+C:\CODES\StartFile\Regex\Replacing\obj\Debug\net6.0\Replacing.genruntimeconfig.cache
+C:\CODES\StartFile\Regex\Replacing\obj\Debug\net6.0\ref\Replacing.dll
