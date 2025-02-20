@@ -1,0 +1,15 @@
+C:\CODES\StartFile\Regex\Timeouts\bin\Debug\net6.0\RegexTimeouts.exe
+C:\CODES\StartFile\Regex\Timeouts\bin\Debug\net6.0\RegexTimeouts.deps.json
+C:\CODES\StartFile\Regex\Timeouts\bin\Debug\net6.0\RegexTimeouts.runtimeconfig.json
+C:\CODES\StartFile\Regex\Timeouts\bin\Debug\net6.0\RegexTimeouts.dll
+C:\CODES\StartFile\Regex\Timeouts\bin\Debug\net6.0\RegexTimeouts.pdb
+C:\CODES\StartFile\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODES\StartFile\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.AssemblyInfoInputs.cache
+C:\CODES\StartFile\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.AssemblyInfo.cs
+C:\CODES\StartFile\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.csproj.CoreCompileInputs.cache
+C:\CODES\StartFile\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.sourcelink.json
+C:\CODES\StartFile\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.dll
+C:\CODES\StartFile\Regex\Timeouts\obj\Debug\net6.0\refint\RegexTimeouts.dll
+C:\CODES\StartFile\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.pdb
+C:\CODES\StartFile\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.genruntimeconfig.cache
+C:\CODES\StartFile\Regex\Timeouts\obj\Debug\net6.0\ref\RegexTimeouts.dll
